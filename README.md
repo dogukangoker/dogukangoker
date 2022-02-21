@@ -11,6 +11,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dogukangoker&theme=monokai" />
 </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dogukangoker&theme=monokai" />
+</a>
 </div
 
 
