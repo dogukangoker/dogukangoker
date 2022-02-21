@@ -13,7 +13,7 @@
 
 ### 📚 Learning and Interesting
 <div width="50px">
-![](https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg)
+![](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png)
 </div>
 
 
