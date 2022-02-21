@@ -12,7 +12,9 @@
 
 
 ### 📚 Learning and Interesting
+<div width="50px">
 ![](https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg)
+</div>
 
 
 ### Connect with me
