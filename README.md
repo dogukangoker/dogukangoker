@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+### Connect with me
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/do%C4%9Fukan-g%C3%B6ker/)
+<br />
+
 <!--
 **dogukangoker/dogukangoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
