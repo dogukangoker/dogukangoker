@@ -14,7 +14,7 @@
 ### 📚 Learning and Interesting
 
 ![](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png)
-![](https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png)
+![](https://cdn.icon-icons.com/icons2/2415/PNG/256/typescript_plain_logo_icon_146316.png)
 
 
 
