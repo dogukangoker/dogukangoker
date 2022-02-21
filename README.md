@@ -15,6 +15,7 @@
 
 ![](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png)
 ![](https://cdn.icon-icons.com/icons2/2415/PNG/128/typescript_plain_logo_icon_146316.png)
+(https://cdn.icon-icons.com/icons2/2699/PNG/128/tailwindcss_logo_icon_167923.png)
 
 
 
