@@ -14,6 +14,7 @@
 ### 📚 Learning and Interesting
 
 ![](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png)
+![](https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-256.png)
 
 
 
