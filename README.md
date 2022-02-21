@@ -22,7 +22,7 @@
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="72" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/do%C4%9Fukan-g%C3%B6ker/)
-[https://cdn.icon-icons.com/icons2/272/PNG/72/Gmail_29991.png](dogukangkr1234@gmail.com)
+[<img align="left" alt="Mail" src="https://cdn.icon-icons.com/icons2/272/PNG/72/Gmail_29991.png" />](dogukangkr1234@gmail.com)
 <br />
 
 <!--
