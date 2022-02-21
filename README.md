@@ -6,8 +6,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukangoker&theme=monokai" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangoker&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangoker&theme=monokai&layout=compact" />
 </a>
 
 
