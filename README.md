@@ -9,7 +9,7 @@
 </a>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangoker&theme=monokai" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dogukangoker&theme=monokai" />
 </a>
 </div
 
