@@ -1,5 +1,5 @@
 ### ℹ️ Hi there 👋👋
-- My name is Doğukan. I'm 22 years old Jr. Front-End Developer
+- My name is Doğukan im 22 years old.
 
 
 ### 📌 GitHub Stats and Top Languages
