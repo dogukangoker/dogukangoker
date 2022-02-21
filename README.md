@@ -4,15 +4,15 @@
 
 ### 📌 GitHub Stats and Top Languages
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukangoker&theme=monokai" />
 </a>
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dogukangoker&theme=monokai" />
 </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dogukangoker&theme=monokai" />
+  <a>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dogukangoker&theme=monokai" />
 </a>
 </div
 
