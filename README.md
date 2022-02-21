@@ -12,9 +12,9 @@
 
 
 ### 📚 Learning and Interesting
-<div width="50px">
+
 ![](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png)
-</div>
+
 
 
 ### Connect with me
