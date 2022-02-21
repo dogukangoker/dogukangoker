@@ -1,14 +1,18 @@
-### Hi there 👋👋
+### ℹ️ Hi there 👋👋
 - My name is Doğukan. I'm 22 years old Jr. Front-End Developer
 
 
-### GitHub Stats and Top Languages
+### 📌 GitHub Stats and Top Languages
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukangoker&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dogukangoker&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dogukangoker&theme=monokai)
 </div>
+
+
+### 📚 Learning and Interesting
+![](https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg)
 
 
 ### Connect with me
