@@ -5,7 +5,7 @@
 ### 📌 GitHub Stats and Top Languages
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukangoker&theme=monokai)
+![](https://github-readme-stats.vercel.app/api?username=dogukangoker&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dogukangoker&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dogukangoker&theme=monokai)
 </div>
