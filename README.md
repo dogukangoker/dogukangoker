@@ -15,7 +15,8 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dogukangoker&theme=monokai" />
 </a>
   
-</div
+</div>
+<br>
 
 
 ### 📚 Learning and Interesting
