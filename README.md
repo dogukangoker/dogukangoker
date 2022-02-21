@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋👋
+- My name is Doğukan. I'm 22 years old Jr. Front-End Developer
+
+
+### GitHub Stats and Top Languages
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukangoker&theme=monokai)
