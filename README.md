@@ -5,11 +5,11 @@
 ### 📌 GitHub Stats and Top Languages
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukangoker&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukangoker&theme=monokai&showicons=true" />
 </a>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangoker&theme=monokai&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangoker&theme=monokai" />
 </a>
 </div
 
