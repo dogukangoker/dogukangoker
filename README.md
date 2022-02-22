@@ -1,5 +1,5 @@
 ### ℹ️ Hi there 👋👋
-- My name is Doğukan im 22 years old.
+- My name is Doğukan and I'm 22 years old.
 
 
 ### 📌 GitHub Stats and Top Languages
