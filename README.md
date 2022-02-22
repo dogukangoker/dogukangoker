@@ -28,7 +28,7 @@
 
 
 
-### Connect with me
+### Contact with me
 [<img align="left" alt="LinkedIn" src="https://cdn.icon-icons.com/icons2/99/PNG/72/linkedin_socialnetwork_17441.png" />]( https://www.linkedin.com/in/do%C4%9Fukan-g%C3%B6ker/)
 [<img align="left" alt="Mail" src="https://cdn.icon-icons.com/icons2/272/PNG/72/Gmail_29991.png" />](dogukangkr1234@gmail.com)
 <br />
