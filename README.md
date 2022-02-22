@@ -5,7 +5,7 @@
 ### 📌 GitHub Stats and Top Languages
 <div align="center">
   <a>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dogukangoker&theme=monokai" />
+  <img align="center" src="" />
 </a>
 <br />
   <a>
