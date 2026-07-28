@@ -54,16 +54,6 @@ It provides digital QR menus, table ordering, waiter calls, account management, 
 
 `Next.js` · `NestJS` · `TypeScript` · `PostgreSQL` · `Redis` · `Cloudflare R2` · `Docker` · `Nginx`
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogukangoker\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangoker\&layout=compact\&hide_border=true)
-
-</div>
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dogukangoker)
